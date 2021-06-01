@@ -1,7 +1,7 @@
 # Dog-Cat-breed-indentify
 Implementation to identify Dog &amp; Cat breed from a picture by using google colab.
 
-This implamantaion uses tensorflow and efficient net. The pre-trained model is used here to identify the dog and cat breed. The model is able to distinguish 125 dog breeds and 5 cat breeds.
+This implamantaion uses tensorflow and efficient net. The pre-trained model that tensorflow provides is able to identify the dog and cat breed and distinguish 125 dog breeds and 5 cat breeds.
 
 https://www.tensorflow.org/api_docs/python/tf/keras/applications/efficientnet
 
