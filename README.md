@@ -2,12 +2,15 @@
 Implementation to identify Dog &amp; Cat breed from a picture by using google colab.
 
 This implamantaion uses tensorflow and efficient net. The pre-trained model is used here to identify the dog and cat breed. The model is able to distinguish 125 dog breeds and 5 cat breeds.
+
 https://www.tensorflow.org/api_docs/python/tf/keras/applications/efficientnet
 
 You can check what classes the pre-trained efficient net can identify from the link below. Dogs are listed between n02085620 and n02116738, so are cats between n02123045 to n02124075.
+
 https://storage.googleapis.com/download.tensorflow.org/data/imagenet_class_index.json
 
 EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks (ICML 2019)
+
 https://arxiv.org/abs/1905.11946
 
 Tensrflow:
